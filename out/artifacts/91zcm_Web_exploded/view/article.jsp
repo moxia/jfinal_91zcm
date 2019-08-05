@@ -69,8 +69,8 @@
 			 <tr><td class="detailinfo"><strong>摘要：</strong>${article.remark }</td></tr>
 			 <tr>
 			   <td class="detail" style="font-size: 13px;">
-			   <div style="width: 250px;height: 250px;text-align: left;clear: left;float: left;margin: 0 20px 10px 0;">
-			   </div>${article.content }</td>
+			   ${article.content }
+			   </td>
 			 </tr>
 			 <tr>
 			   <td>
