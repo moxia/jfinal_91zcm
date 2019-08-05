@@ -34,7 +34,6 @@
 <body>
   <table id="container"=>
     <tr id="header">
-     <jsp:include page="common/share.jsp"/>
 	 <td colspan="2">
 	    <table class="top">
 		 <tr class="menu">
@@ -71,29 +70,11 @@
 			 <tr>
 			   <td class="detail" style="font-size: 13px;">
 			   <div style="width: 250px;height: 250px;text-align: left;clear: left;float: left;margin: 0 20px 10px 0;">
-			    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<!-- 91zcm_article_001 -->
-					<ins class="adsbygoogle"
-					     style="display:inline-block;width:250px;height:250px"
-					     data-ad-client="ca-pub-3712320065678109"
-					     data-ad-slot="7962713969"></ins>
-					<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-			    </script>
 			   </div>${article.content }</td>
 			 </tr>
 			 <tr>
 			   <td>
 			     <div class="page_ad">
-				    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-						<!-- 91zcm_article_bottom_001 -->
-						<ins class="adsbygoogle"
-						     style="display:inline-block;width:600px;height:50px"
-						     data-ad-client="ca-pub-3712320065678109"
-						     data-ad-slot="1283725160"></ins>
-						<script>
-						(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
 				 </div>
 			     <span>&nbsp;声明：91zcm.com 博客文章版权属于作者，受法律保护。未经作者同意不得转载。 </span>
 			     <table cellpadding="0" class="relative">

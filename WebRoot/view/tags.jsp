@@ -14,7 +14,6 @@
 <body>
   <table id="container">
     <tr id="header">
-     <jsp:include page="common/share.jsp"/>
 	 <td colspan="2">
 	    <table class="top">
 		 <tr class="menu">
@@ -36,15 +35,6 @@
 	<tr id="content">
 	 <td id="left">
 	   <div class="page_ad">
-	    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<!-- 91zcm_article_bottom_001 -->
-			<ins class="adsbygoogle"
-			     style="display:inline-block;width:600px;height:50px"
-			     data-ad-client="ca-pub-3712320065678109"
-			     data-ad-slot="1283725160"></ins>
-			<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
 	   </div>
 	   <div class="tags">
 	     <ul>
@@ -55,15 +45,6 @@
 	   </div>
 	   <div class="clear"></div>
 	   <div class="page_ad">
-	    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<!-- 91zcm_article_bottom_001 -->
-			<ins class="adsbygoogle"
-			     style="display:inline-block;width:600px;height:50px"
-			     data-ad-client="ca-pub-3712320065678109"
-			     data-ad-slot="1283725160"></ins>
-			<script>
-			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
 	   </div>
 	   <div class="clear"></div>
 	   <div class="page mb"><span>共${ pageList.totalRow}条数据 页次:${pageList.pageNumber }/${ pageList.totalPage}页</span>

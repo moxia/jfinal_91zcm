@@ -7,51 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d4bf03e-c9d2-43d7-9884-cb8a06954cc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/91zcm_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jfinal_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/common/CommonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/common/CommonConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/common/CommonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/common/CommonController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/interceptor/AdminInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/interceptor/AdminInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/CharacterFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/CharacterFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/DateUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/FakeStaticHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/FakeStaticHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/OperateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/OperateImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/PageUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/PageUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/PingYinUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/ReadPropertity.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/ReadPropertity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/RssUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/RssUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/SendMail.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/SendMail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/StringUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/TargetUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/TargetUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/AdminVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/AdminVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/ArticleAllVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/ArticleAllVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/ArticleVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/ArticleVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/MsgVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/MsgVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/SeeAllVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/SeeAllVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/WebVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/WebVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/admin/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/admin/Admin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/admin/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/admin/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/article/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/article/Article.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/article/ArticleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/article/ArticleController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/category/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/category/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/gbook/Gbook.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/gbook/Gbook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/links/Links.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/links/Links.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/tags/Tags.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/tags/Tags.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/website/Website.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/website/Website.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/JFinal-bin-with-src-1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/view/article.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/article.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conf/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zcm/common/CommonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/common/CommonConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zcm/common/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/common/CommonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zcm/utils/FakeStaticHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/utils/FakeStaticHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/common/articleright.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/common/articleright.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/common/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/common/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/common/indexright.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/common/indexright.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/common/listright.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/common/listright.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/common/searchright.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/common/searchright.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/tags.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/tags.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/article.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/article.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/articleright.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/articleright.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/indexright.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/indexright.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/listright.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/listright.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/searchright.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/common/searchright.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/tags.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded/view/tags.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/WebRoot/WEB-INF/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,9 +81,9 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="36" />
+          <entry key="java" value="38" />
           <entry key="js" value="8" />
-          <entry key="jsp" value="4" />
+          <entry key="jsp" value="18" />
           <entry key="properties" value="3" />
           <entry key="sql" value="2" />
           <entry key="txt" value="1" />
@@ -117,8 +93,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="36" />
-          <entry key="JSP" value="4" />
+          <entry key="JAVA" value="38" />
+          <entry key="JSP" value="18" />
           <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="3" />
@@ -130,6 +106,7 @@
         <counts>
           <entry key="java" value="288" />
           <entry key="js" value="30" />
+          <entry key="jsp" value="1" />
           <entry key="properties" value="37" />
           <entry key="xml" value="3" />
         </counts>
@@ -137,6 +114,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="288" />
+          <entry key="JSP" value="1" />
           <entry key="JavaScript" value="30" />
           <entry key="Properties" value="37" />
           <entry key="XML" value="3" />
@@ -145,56 +123,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9177">
-              <caret line="536" column="35" selection-start-line="536" selection-start-column="35" selection-end-line="536" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="108" column="31" selection-start-line="108" selection-start-column="31" selection-end-line="108" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/SiteMapHttpUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="89" column="35" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/config.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -213,7 +142,15 @@
       <find>lucenePath</find>
       <find>createIndex</find>
       <find>SiteMapHttpUtils</find>
+      <find>adsbygoogle</find>
+      <find>googlesyndication</find>
+      <find>cnzz</find>
+      <find>share.baidu</find>
+      <find>share.jsp</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\zhou\IdeaProjects\jfinal_91zcm</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -223,7 +160,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java" />
         <option value="$PROJECT_DIR$/src/com/zcm/common/CommonController.java" />
-        <option value="$PROJECT_DIR$/WebRoot/view/article.jsp" />
         <option value="$PROJECT_DIR$/WebRoot/sysadmin/article.jsp" />
         <option value="$PROJECT_DIR$/src/com/zcm/common/CommonConfig.java" />
         <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" />
@@ -233,6 +169,16 @@
         <option value="$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java" />
         <option value="$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java" />
         <option value="$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java" />
+        <option value="$PROJECT_DIR$/WebRoot/view/index.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/common/indexright.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/common/searchright.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/tags.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/list.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/search.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/article.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/common/articleright.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/common/listright.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/view/common/footer.jsp" />
       </list>
     </option>
   </component>
@@ -266,19 +212,44 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jfinal_91zcm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jfinal_91zcm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jfinal_91zcm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jfinal_91zcm" type="462c0819:PsiDirectoryNode" />
+              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jfinal_91zcm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jfinal_91zcm" type="462c0819:PsiDirectoryNode" />
+              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/zhou/IdeaProjects/jfinal_91zcm/src/com/zcm/web/admin/AdminController.java&#10;kindeditor.js&#9;FILE&#9;file://C:/Users/zhou/IdeaProjects/jfinal_91zcm/WebRoot/editor/kindeditor.js&#10;jfinalcon&#9;PSI&#9;JAVA://com.jfinal.config.JFinalConfig" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565011498358" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565019003549" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-4.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -430,12 +401,12 @@
       <workItem from="1564795309275" duration="1255000" />
       <workItem from="1564838318705" duration="3280000" />
       <workItem from="1564877894923" duration="1813000" />
-      <workItem from="1565010089625" duration="715000" />
+      <workItem from="1565010089625" duration="4407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43607000" />
+    <option name="totallyTimeSpent" value="47299000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -448,42 +419,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26928896" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.51967216" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
-      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924356" weight="0.32935154" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32935154" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.32935154" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.5344262" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32935154" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32935154" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -514,7 +451,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -553,20 +490,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebRoot/sysadmin/gbook.jsp">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/view/article.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="154" column="80" selection-start-line="154" selection-start-column="80" selection-end-line="154" selection-end-column="80" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-4.3.jar!/com/jfinal/config/JFinalConfig.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -742,8 +665,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="108" column="31" selection-start-line="108" selection-start-column="31" selection-end-line="108" selection-end-column="31" />
+        <state relative-caret-position="67">
+          <caret line="84" column="56" lean-forward="true" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/web/website/Website.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/common/searchright.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/tags.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/search.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/article.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/common/articleright.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/common/listright.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/common/indexright.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/common/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/common/share.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="13" column="365" selection-start-line="13" selection-start-column="365" selection-end-line="13" selection-end-column="365" />
         </state>
       </provider>
     </entry>

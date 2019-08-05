@@ -10,28 +10,10 @@
 	</div>
 	<div class="clear"></div>
     <div id="right_top">
-     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- 91zcm_right_001 -->
-		<ins class="adsbygoogle"
-		     style="display:inline-block;width:160px;height:600px"
-		     data-ad-client="ca-pub-3712320065678109"
-		     data-ad-slot="7330258769"></ins>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-	 </script>
     </div>
 	<div class="clear"></div>
 	<div id="right_bottom">
 	 <div class="div1" id="float">
-	    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- 91zcm_right_bottom_001 -->
-		<ins class="adsbygoogle"
-		     style="display:inline-block;width:200px;height:200px"
-		     data-ad-client="ca-pub-3712320065678109"
-		     data-ad-slot="1916180369"></ins>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-	    </script>
      </div> 
 	</div>
 </td>
