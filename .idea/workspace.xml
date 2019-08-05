@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="91zcm:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d4bf03e-c9d2-43d7-9884-cb8a06954cc3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/91zcm_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jfinal_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/common/CommonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/common/CommonConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/common/CommonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/common/CommonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/interceptor/AdminInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/interceptor/AdminInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/CharacterFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/CharacterFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/DateUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/FakeStaticHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/FakeStaticHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/OperateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/OperateImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/PageUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/PageUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/PingYinUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/ReadPropertity.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/ReadPropertity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/RssUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/RssUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/SendMail.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/SendMail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/StringUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/TargetUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/utils/TargetUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/AdminVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/AdminVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/ArticleAllVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/ArticleAllVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/ArticleVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/ArticleVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/MsgVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/MsgVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/SeeAllVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/SeeAllVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/WebVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/vo/WebVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/admin/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/admin/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/admin/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/admin/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/article/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/article/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/article/ArticleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/article/ArticleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/category/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/category/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/gbook/Gbook.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/gbook/Gbook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/links/Links.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/links/Links.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/tags/Tags.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/tags/Tags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/website/Website.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/zcm/web/website/Website.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/JFinal-bin-with-src-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/view/article.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/view/article.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conf/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zcm/common/CommonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/common/CommonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zcm/common/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/common/CommonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zcm/utils/FakeStaticHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/utils/FakeStaticHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/WebRoot/WEB-INF/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1296393099">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.225" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.354" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.51" value="3" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="java" value="36" />
+          <entry key="js" value="8" />
+          <entry key="jsp" value="4" />
+          <entry key="properties" value="3" />
+          <entry key="sql" value="2" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="36" />
+          <entry key="JSP" value="4" />
+          <entry key="JavaScript" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="3" />
+          <entry key="SQL" value="2" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="288" />
+          <entry key="js" value="30" />
+          <entry key="properties" value="37" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="288" />
+          <entry key="JavaScript" value="30" />
+          <entry key="Properties" value="37" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9177">
+              <caret line="536" column="35" selection-start-line="536" selection-start-column="35" selection-end-line="536" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="108" column="31" selection-start-line="108" selection-start-column="31" selection-end-line="108" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/SiteMapHttpUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="89" column="35" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gbook</find>
+      <find>nextHandler</find>
+      <find>getTopArticle</find>
+      <find>.js</find>
+      <find>message</find>
+      <find>messageForm</find>
+      <find>算法</find>
+      <find>actorpic</find>
+      <find>inputarticle</find>
+      <find>String filePath = this.getRequest().getRealPath(ReadPropertity.getProperty(&quot;actorpictmp&quot;) + fileName);</find>
+      <find>actorpictmp</find>
+      <find>LuceneUtil</find>
+      <find>lucenePath</find>
+      <find>createIndex</find>
+      <find>SiteMapHttpUtils</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/com/zcm/common/CommonController.java" />
+        <option value="$PROJECT_DIR$/WebRoot/view/article.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/sysadmin/article.jsp" />
+        <option value="$PROJECT_DIR$/src/com/zcm/common/CommonConfig.java" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/WebRoot/editor/lang/zh_CN.js" />
+        <option value="$PROJECT_DIR$/src/com/zcm/utils/FakeStaticHandler.java" />
+        <option value="$PROJECT_DIR$/conf/config.properties" />
+        <option value="$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/zhou/IdeaProjects/jfinal_91zcm/src/com/zcm/web/admin/AdminController.java&#10;kindeditor.js&#9;FILE&#9;file://C:/Users/zhou/IdeaProjects/jfinal_91zcm/WebRoot/editor/kindeditor.js&#10;jfinalcon&#9;PSI&#9;JAVA://com.jfinal.config.JFinalConfig" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565011498358" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-4.3.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhou\IdeaProjects\jfinal_91zcm\WebRoot\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat9">
+    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcm.starter.Starter" />
+      <module name="91zcm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcm.starter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="91zcm:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_jfinal_91zcm" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59241" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="91zcm:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.tomcat9" />
+      <item itemvalue="Application.Starter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Starter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d4bf03e-c9d2-43d7-9884-cb8a06954cc3" name="Default Changelist" comment="" />
+      <created>1563007858254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563007858254</updated>
+      <workItem from="1563007860634" duration="1001000" />
+      <workItem from="1563014177773" duration="4383000" />
+      <workItem from="1563027265540" duration="2052000" />
+      <workItem from="1563068010303" duration="10935000" />
+      <workItem from="1563119524780" duration="273000" />
+      <workItem from="1563119879371" duration="132000" />
+      <workItem from="1563165806330" duration="354000" />
+      <workItem from="1563187624395" duration="1194000" />
+      <workItem from="1563275757635" duration="1654000" />
+      <workItem from="1563289507268" duration="1653000" />
+      <workItem from="1563370043085" duration="2182000" />
+      <workItem from="1563459177882" duration="2262000" />
+      <workItem from="1563544620453" duration="2038000" />
+      <workItem from="1563549130376" duration="32000" />
+      <workItem from="1563587542701" duration="2587000" />
+      <workItem from="1563892210270" duration="7000" />
+      <workItem from="1564303437719" duration="866000" />
+      <workItem from="1564323530944" duration="1190000" />
+      <workItem from="1564501266851" duration="600000" />
+      <workItem from="1564587388352" duration="1149000" />
+      <workItem from="1564795309275" duration="1255000" />
+      <workItem from="1564838318705" duration="3280000" />
+      <workItem from="1564877894923" duration="1813000" />
+      <workItem from="1565010089625" duration="715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43607000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26928896" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.51967216" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924356" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.5344262" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32935154" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32935154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.51967216" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924356" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.5344262" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32935154" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32935154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/db/91zcm.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-4.3.jar!/com/jfinal/plugin/activerecord/Db.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1146">
+          <caret line="96" column="33" selection-start-line="96" selection-start-column="33" selection-end-line="96" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/web/article/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/sysadmin/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="92" selection-start-line="2" selection-start-column="92" selection-end-line="2" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/sysadmin/gbook.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/interceptor/AdminInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/view/article.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="154" column="80" selection-start-line="154" selection-start-column="80" selection-end-line="154" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-4.3.jar!/com/jfinal/config/JFinalConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/editor/kindeditor.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/editor/kindeditor-all.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/editor/lang/zh_TW.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/sysadmin/article.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-4.3.jar!/com/jfinal/core/Controller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="581" column="22" selection-start-line="581" selection-start-column="22" selection-end-line="581" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-4.3.jar!/com/jfinal/upload/MultipartRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-4.3.jar!/com/jfinal/upload/UploadFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="471" column="18" selection-start-line="471" selection-start-column="18" selection-end-line="471" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/upload/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/CharacterFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/js/common.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/editor/lang/zh_CN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/PageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/EhcacheConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1843">
+          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/FakeStaticHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/starter/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/common/CommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="49" column="53" lean-forward="true" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-core-2.3.2.jar!/org/apache/lucene/index/IndexWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="161" column="41" selection-start-line="161" selection-start-column="41" selection-end-line="161" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/common/CommonConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/web/admin/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9177">
+          <caret line="536" column="35" selection-start-line="536" selection-start-column="35" selection-end-line="536" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/SiteMapHttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/utils/LuceneUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="89" column="35" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zcm/web/article/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="108" column="31" selection-start-line="108" selection-start-column="31" selection-end-line="108" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>91zcm:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (91zcm)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>91zcm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jfinal-4.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

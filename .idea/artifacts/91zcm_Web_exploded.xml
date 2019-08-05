@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="91zcm:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/91zcm_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="91zcm/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="91zcm" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
