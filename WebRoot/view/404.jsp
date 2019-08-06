@@ -18,6 +18,6 @@ a:hover,a:active,a:focus{color:#f60;text-decoration:underline}
 </head>
 <body>
 <div class="m404">
-<a href="http://www.91zcm.com"><img src="${images_ctx }/404.jpg" width="409" height="177" alt="“真的很抱歉，我们搞丢了页面……”要不去首页看看？"/></a></div>
+<a href="http://www.javalog.cn"><img src="${images_ctx }/404.jpg" width="409" height="177" alt="“真的很抱歉，我们搞丢了页面……”要不去首页看看？"/></a></div>
 </body>
 </html>

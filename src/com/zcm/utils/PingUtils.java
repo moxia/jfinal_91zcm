@@ -7,18 +7,18 @@ import org.apache.commons.httpclient.methods.StringRequestEntity;
 
 /**
  * 百度文章Ping工具
- * <p>Company:  91注册码</p>
+ * <p>Company:  Java日志</p>
  * time:2014-06-01
- * @author www.91zcm.com
+ * @author www.javalog.cn
  * @date 
  * @version 1.0
 */
 public class PingUtils {
 	
 	public static final String PING_RPC   = "http://ping.baidu.com/ping/RPC2";     /**博客Ping地址**/
-	public static final String PING_TITLE = "91注册码";                            /**博客名称**/
-	public static final String PING_URL   = "http://www.91zcm.com/";               /**博客首页地址**/
-	public static final String PING_RSS   = "http://www.91zcm.com/rss.xml";        /**博客RSS地址**/
+	public static final String PING_TITLE = "Java日志";                            /**博客名称**/
+	public static final String PING_URL   = "http://www.javalog.cn/";               /**博客首页地址**/
+	public static final String PING_RSS   = "http://www.javalog.cn/rss.xml";        /**博客RSS地址**/
 
 	/**
 	 * 创建Ping需要的XML格式的文件
@@ -48,7 +48,7 @@ public class PingUtils {
   
 	
 	/**
-	 * 91zcm.com Ping 百度方法
+	 * javalog.cn Ping 百度方法
 	 * @param shareURL   新发文章地址
 	 * @return
 	 * @throws Exception

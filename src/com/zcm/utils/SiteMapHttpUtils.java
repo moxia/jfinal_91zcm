@@ -10,9 +10,9 @@ import com.jiangge.utils.DateUtils;
 
 /**
  * 百度文章SiteMap工具
- * <p>Company:  91注册码</p>
+ * <p>Company:  Java日志</p>
  * time:2014-06-01
- * @author www.91zcm.com
+ * @author www.javalog.cn
  * @date 
  * @version 1.0
 */
@@ -20,7 +20,7 @@ public class SiteMapHttpUtils {
 	
 	
 	/**百度SiteMap地址**/
-	public static final String siteMapURL = "http://ping.baidu.com/sitemap?site=www.91zcm.com&resource_name=sitemap&access_token=lcrfZbBh";  
+	public static final String siteMapURL = "http://ping.baidu.com/sitemap?site=www.javalog.cn&resource_name=sitemap&access_token=lcrfZbBh";
 	
 	
 	/**

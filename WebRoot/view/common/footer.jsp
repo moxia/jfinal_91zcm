@@ -14,5 +14,5 @@
  </td>
 </tr>
 <tr>
- <td colspan="2" align="center" height="40px">© 91注册码(<a href="http://www.91zcm.com/" title="注册码、序列号、激活码分享网站">91zcm.com</a>) | 站长QQ：459104018 | 备案号：蜀ICP备14008230号-1 </td>
+ <td colspan="2" align="center" height="40px">© Java日志(<a href="http://www.javalog.cn/" title="Java基础、框架、周边技术">javalog.cn</a>)</td>
 </tr>

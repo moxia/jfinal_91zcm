@@ -105,12 +105,12 @@ CREATE TABLE `category` (
 -- ----------------------------
 -- Records of category
 -- ----------------------------
-INSERT INTO `category` VALUES ('1', '注册码', 'zhucema', '注册码,序列号,激活码,VIP账号,优惠码,91zcm.com', '91注册码(www.91zcm.com),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', '注册码,软件注册码 - 91注册码(91zcm.com)');
-INSERT INTO `category` VALUES ('2', '序列号', 'xuliehao', '序列号,注册码,激活码,VIP账号,优惠码,91zcm.com', '91注册码(www.91zcm.com),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', '序列号,软件序列号 - 91注册码(91zcm.com)');
-INSERT INTO `category` VALUES ('3', '激活码', 'jihuoma', '激活码,注册码,序列号,VIP账号,优惠码,91zcm.com', '91注册码(www.91zcm.com),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', '激活码,软件激活码 - 91注册码(91zcm.com)');
-INSERT INTO `category` VALUES ('4', 'VIP账号', 'vip', 'VIP账号,注册码,序列号,激活码,优惠码,91zcm.com', '91注册码(www.91zcm.com),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', 'VIP账号,迅雷VIP,CSDN账号 - 91注册码(91zcm.com)');
-INSERT INTO `category` VALUES ('5', '优惠码', 'youhuima', '优惠码,注册码,序列号,激活码,VIP账号,91zcm.com', '91注册码(www.91zcm.com),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', '优惠码,网站优惠码 - 91注册码(91zcm.com)');
-INSERT INTO `category` VALUES ('6', 'IT新闻', 'news', 'IT新闻,注册码,序列号,激活码,VIP账号,优惠码,91zcm.com', '91注册码(www.91zcm.com),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', 'IT新闻,互联网新闻 - 91注册码(91zcm.com)');
+INSERT INTO `category` VALUES ('1', '注册码', 'zhucema', '注册码,序列号,激活码,VIP账号,优惠码,javalog.cn', 'Java日志(www.javalog.cn),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', '注册码,软件注册码 - Java日志(javalog.cn)');
+INSERT INTO `category` VALUES ('2', '序列号', 'xuliehao', '序列号,注册码,激活码,VIP账号,优惠码,javalog.cn', 'Java日志(www.javalog.cn),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', '序列号,软件序列号 - Java日志(javalog.cn)');
+INSERT INTO `category` VALUES ('3', '激活码', 'jihuoma', '激活码,注册码,序列号,VIP账号,优惠码,javalog.cn', 'Java日志(www.javalog.cn),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', '激活码,软件激活码 - Java日志(javalog.cn)');
+INSERT INTO `category` VALUES ('4', 'VIP账号', 'vip', 'VIP账号,注册码,序列号,激活码,优惠码,javalog.cn', 'Java日志(www.javalog.cn),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', 'VIP账号,迅雷VIP,CSDN账号 - Java日志(javalog.cn)');
+INSERT INTO `category` VALUES ('5', '优惠码', 'youhuima', '优惠码,注册码,序列号,激活码,VIP账号,javalog.cn', 'Java日志(www.javalog.cn),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', '优惠码,网站优惠码 - Java日志(javalog.cn)');
+INSERT INTO `category` VALUES ('6', 'IT新闻', 'news', 'IT新闻,注册码,序列号,激活码,VIP账号,优惠码,javalog.cn', 'Java日志(www.javalog.cn),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息', 'IT新闻,互联网新闻 - Java日志(javalog.cn)');
 
 -- ----------------------------
 -- Table structure for `gbook`
@@ -132,7 +132,7 @@ CREATE TABLE `gbook` (
 -- ----------------------------
 -- Records of gbook
 -- ----------------------------
-INSERT INTO `gbook` VALUES ('2', '2014-01-07 02:19:24', 'admin@mbaike.net', '不错，可以使用！', '91注册码', '14', '1', '感谢对91zcm.com网站的关注！', '127.0.0.1');
+INSERT INTO `gbook` VALUES ('2', '2014-01-07 02:19:24', 'admin@mbaike.net', '不错，可以使用！', 'Java日志', '14', '1', '感谢对javalog.cn网站的关注！', '127.0.0.1');
 INSERT INTO `gbook` VALUES ('3', '2014-01-07 16:02:39', '111@11.com', '几乎都不能用的说', 'jovichin', '4', '1', '不会吧？？', '127.0.0.1');
 
 -- ----------------------------
@@ -150,7 +150,7 @@ CREATE TABLE `links` (
 -- ----------------------------
 -- Records of links
 -- ----------------------------
-INSERT INTO `links` VALUES ('1', '91注册码', 'http://www.91zcm.com', '91注册码');
+INSERT INTO `links` VALUES ('1', 'Java日志', 'http://www.javalog.cn', 'Java日志');
 INSERT INTO `links` VALUES ('2', '卢松松博客', 'http://lusongsong.com/', '卢松松博客');
 INSERT INTO `links` VALUES ('8', '开源中国', 'http://www.oschina.net/', '开源中国');
 
@@ -287,6 +287,6 @@ CREATE TABLE `website` (
 -- ----------------------------
 -- Records of website
 -- ----------------------------
-INSERT INTO `website` VALUES ('1', 'title', '标题', '91注册码 | 软件注册码、序列号、激活码、VIP账号、优惠码');
-INSERT INTO `website` VALUES ('2', 'keywords', '关键词', '注册码,序列号,激活码,VIP账号,优惠码,91zcm.com');
-INSERT INTO `website` VALUES ('3', 'description', '描述', '91注册码(www.91zcm.com),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息');
+INSERT INTO `website` VALUES ('1', 'title', '标题', 'Java日志 | 软件注册码、序列号、激活码、VIP账号、优惠码');
+INSERT INTO `website` VALUES ('2', 'keywords', '关键词', '注册码,序列号,激活码,VIP账号,优惠码,javalog.cn');
+INSERT INTO `website` VALUES ('3', 'description', '描述', 'Java日志(www.javalog.cn),旨在为广大网友分享软件注册码、序列号、激活码、VIP账号、优惠码等信息');

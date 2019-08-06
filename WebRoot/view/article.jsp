@@ -6,8 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta http-equiv="x-ua-compatible" content="ie=7" />
 <link href="${ctx }/favicon.ico" rel="shortcut icon"/>
-<title>${article.title } - 91注册码</title>
-<meta name="keywords" content="<c:forEach items="${tagsList}" var="tags">${tags.tname },</c:forEach>91注册码"/>
+<title>${article.title } - Java日志</title>
+<meta name="keywords" content="<c:forEach items="${tagsList}" var="tags">${tags.tname },</c:forEach>Java日志"/>
 <meta name="description" content="${article.remark }"/>
 <link href="${css_ctx }/91zcm.css" rel="stylesheet"/> 
 <script type="text/javascript" src="${js_ctx }/jquery-1.5.1.min.js"></script>
@@ -40,7 +40,7 @@
 		   <td>
 		     <table class="nav">
 			  <tr>
-			   <th class="logoth"><h2><a href="${ctx }/">91注册码</a></h2></th>
+			   <th class="logoth"><h2><a href="${ctx }/">Java日志</a></h2></th>
 			   <c:forEach items="${menuList}" var="menu">
 			     <c:if test="${menu.cid eq showCid}"><td><h3>${menu.cname }</h3></td></c:if>
 			     <c:if test="${menu.cid ne showCid}"><td><h3><a href="${ctx }/${menu.url }.html" title="${menu.cname }" target="_self">${menu.cname }</a></h3></td></c:if>
@@ -76,7 +76,7 @@
 			   <td>
 			     <div class="page_ad">
 				 </div>
-			     <span>&nbsp;声明：91zcm.com 博客文章版权属于作者，受法律保护。未经作者同意不得转载。 </span>
+			     <span>&nbsp;声明：javalog.cn 博客文章版权属于作者，受法律保护。未经作者同意不得转载。 </span>
 			     <table cellpadding="0" class="relative">
 					 <tr>
 						  <th class="relative">标签</th>

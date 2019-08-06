@@ -529,7 +529,7 @@ public class AdminController extends Controller {
 			LuceneUtil.addIndex(vo);
 			
 			/**添加到百度博客Ping中**/
-			String shareURL = "http://www.91zcm.com/" + category.getStr("url") + "/" + record.getInt("aid") + ".html";
+			String shareURL = "http://www.javalog.cn/" + category.getStr("url") + "/" + record.getInt("aid") + ".html";
 			PingUtils.pingBaidu(shareURL);
 			/**添加到百度SiteMap中**/
 			//SiteMapHttpUtils.postSiteMap(shareURL);

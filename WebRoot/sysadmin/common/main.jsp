@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>91注册码后台管理系统 </title>
+<title>Java日志后台管理系统 </title>
 <style type="text/css">
 <!--
 body {
@@ -21,7 +21,7 @@ html { overflow-x: ; overflow-y: ; border:0;}
 <body>
 <table width="80%" border="0" cellspacing="0" cellpadding="0" style="margin-top:100px;margin-left:100px;">
   <tr>
-        <td valign="top">欢迎使用91注册码后台管理系统V1.0~！</td>
+        <td valign="top">欢迎使用Java日志后台管理系统V1.0~！</td>
   </tr>
 </table>
 </body>

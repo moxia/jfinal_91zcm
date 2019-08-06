@@ -42,7 +42,7 @@ public class ArticleController extends Controller {
 		String ip = this.getRequest().getRemoteAddr();
 		if(verifyimg.equals(rand)){
 			String nickname = getPara("nickname")==null?"热心网友":StringUtils.getSearchWord(getPara("nickname"));
-			String email = getPara("email")==null?"http://www.91zcm.com":StringUtils.getSearchWord(getPara("email"));
+			String email = getPara("email")==null?"http://www.javalog.cn":StringUtils.getSearchWord(getPara("email"));
 			String content = getPara("content")==null?"木有留言内容":StringUtils.getSearchWord(getPara("content"));
 			int aid = getParaToInt("aid");
 			Record c = new Record();

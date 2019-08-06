@@ -20,7 +20,7 @@
 		   <td>
 		     <table class="nav">
 			  <tr>
-			   <th class="logoth"><h2><a href="${ctx }/">91注册码</a></h2></th>
+			   <th class="logoth"><h2><a href="${ctx }/">Java日志</a></h2></th>
 			   <c:forEach items="${menuList}" var="menu">
 			     <td><h3><a href="${ctx }/${menu.url }.html" title="${menu.cname }" target="_self">${menu.cname }</a></h3></td>
 			   </c:forEach>

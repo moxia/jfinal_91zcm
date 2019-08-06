@@ -25,9 +25,9 @@ import com.zcm.vo.LuceneVO;
 
 /**
  * IKAnalyzer分词和Lucene检索
- * <p>Company:  91注册码</p>
+ * <p>Company:  Java日志</p>
  * time:2014-04-22
- * @author www.91zcm.com
+ * @author www.javalog.cn
  * @date 
  * @version 1.1
 */

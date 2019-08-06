@@ -18,7 +18,7 @@ public class RssUtils {
         Channel channel = new Channel("rss_2.0");
         channel.setTitle(map.get("title"));
         channel.setDescription(map.get("description"));
-        channel.setLink("http://www.91zcm.com/");
+        channel.setLink("http://www.javalog.cn/");
         channel.setEncoding("UTF-8");
         /**这个list对应rss中的item列表**/
         List<Item> items = new ArrayList<Item>();
@@ -27,7 +27,7 @@ public class RssUtils {
         for(ArticleVO article:filmList){
         	item = new Item();
         	item.setAuthor("91zcm");
-        	item.setLink("http://www.91zcm.com/"+article.getCurl()+"/"+article.getAid()+".html");
+        	item.setLink("http://www.javalog.cn/"+article.getCurl()+"/"+article.getAid()+".html");
         	item.setPubDate(DateUtils.parse(article.getAddtime()));
             item.setTitle(article.getTitle());
             Description description = new Description();
